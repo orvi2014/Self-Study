@@ -2,7 +2,7 @@
 
 - [Theoritical Physics](#Theoritical Physics)
 - [Math](#math-mathematical-thinking)
-- [Computer Science](#program-design)
+- [Computer Science](#Computer Science)
 - [Economics](#math-discrete-math)
 - [Philosophy](#algorithms)
 
@@ -37,10 +37,15 @@
 26. [ANU-ASTRO3x: The Violent Universe](https://www.class-central.com/mooc/2368/edx-anu-astro3x-astrophysics-the-violent-universe)
 27. [ASTRO2290x: Relativity and Astrophysics](https://www.class-central.com/mooc/1334/edx-astro2290x-relativity-and-astrophysics)
 
+
+### Computer Science]
+
+
+
 ##### Currently Working 
 
 1. Introduction to Physics
 
 ##### Progress List
 
-1.
+1. [Python Data Structures](https://www.coursera.org/learn/python-data)
