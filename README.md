@@ -38,7 +38,7 @@
 27. [ASTRO2290x: Relativity and Astrophysics](https://www.class-central.com/mooc/1334/edx-astro2290x-relativity-and-astrophysics)
 
 
-### Computer Science]
+### Computer Science
 
 
 
@@ -46,6 +46,6 @@
 
 1. Introduction to Physics
 
-##### Progress List
+##### Finished
 
 1. [Python Data Structures](https://www.coursera.org/learn/python-data)
