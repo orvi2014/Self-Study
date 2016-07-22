@@ -3,8 +3,8 @@
 - [Theoritical Physics](#Theoritical Physics)
 - [Math](#math-mathematical-thinking)
 - [Computer Science](#Computer Science)
-- [Economics](#math-discrete-math)
-- [Philosophy](#algorithms)
+- [Economics](#Economics)
+- [Philosophy](#Philosophy)
 
 
 ### Theoritical Physics
@@ -40,6 +40,32 @@
 
 ### Computer Science
 
+
+
+
+### Philosophy
+
+1. [INTRO TO PHIL](https://www.coursera.org/learn/philosophy)
+2. [Introduction Philosophy-II](https://www.edx.org/course/introduction-philosophy-god-knowledge-mitx-24-00x-1)
+3. [Logic-I](https://www.class-central.com/mooc/329/coursera-introduction-to-logic)
+4. [Logic-II](https://www.class-central.com/mooc/383/coursera-think-again-how-to-reason-and-argue)
+5. [Logic-III](https://www.class-central.com/mooc/1629/open-education-by-blackboard-logic-and-paradoxes)
+6. [Practical Ethics](https://www.class-central.com/mooc/1354/coursera-practical-ethics)
+7. [Metaphysics-I](https://www.class-central.com/mooc/432/coursera-know-thyself)
+8. [Metaphysics-II](https://www.class-central.com/mooc/1907/the-soul-and-the-search-for-meaning)
+9. [Metaphysics-III](https://www.class-central.com/mooc/911/coursera-moralities-of-everyday-life)
+10.[MetaPhysics-Iv](https://www.class-central.com/mooc/2268/janux-philosophy-and-human-destiny)
+11.[Søren Kierkegaard – Subjectivity, Irony and the Crisis of Modernity](https://www.class-central.com/mooc/667/coursera-sren-kierkegaard-subjectivity-irony-and-the-crisis-of-modernity)
+12.[Reason and Persuasion: Thinking Through Three Dialogues By Plato](https://www.class-central.com/mooc/980/coursera-reason-and-persuasion-thinking-through-three-dialogues-by-plato)
+13.[Explorations in Confucian Philosophy](https://www.class-central.com/mooc/3281/coursera-explorations-in-confucian-philosophy)
+14.[Justice](https://www.edx.org/course/justice-harvardx-er22-1x-0)
+15.[Ancient Philosophy: Plato and His Successors](https://www.coursera.org/learn/plato)
+16.[Ancient Philosophy: Aristotle and His Successors](https://www.coursera.org/learn/aristotle)
+17.[The Modern and the Postmodern (Part 1)](https://www.coursera.org/learn/modern-postmodern-1)
+18.[The Modern and the Postmodern (Part 2)](https://www.coursera.org/learn/modern-postmodern-2)
+19.[Revolutionary Ideas: Utility, Justice, Equality, Freedom](https://www.coursera.org/learn/political-philosophy)
+20.[Revolutionary Ideas: Borders, Elections, Constitutions, Prisons](https://www.coursera.org/learn/political-philosophy-2)
+21.[Emotions](https://www.coursera.org/learn/emotions)
 
 
 ##### Currently Working 
