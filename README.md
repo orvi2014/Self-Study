@@ -56,7 +56,7 @@
 9. [Metaphysics-III](https://www.class-central.com/mooc/911/coursera-moralities-of-everyday-life)
 10. [MetaPhysics-Iv](https://www.class-central.com/mooc/2268/janux-philosophy-and-human-destiny)
 11. [Søren Kierkegaard – Subjectivity, Irony and the Crisis of Modernity](https://www.class-central.com/mooc/667/coursera-sren-kierkegaard-subjectivity-irony-and-the-crisis-of-modernity)
-12.[Reason and Persuasion: Thinking Through Three Dialogues By Plato](https://www.class-central.com/mooc/980/coursera-reason-and-persuasion-thinking-through-three-dialogues-by-plato)
+12. [Reason and Persuasion: Thinking Through Three Dialogues By Plato](https://www.class-central.com/mooc/980/coursera-reason-and-persuasion-thinking-through-three-dialogues-by-plato)
 13. [Explorations in Confucian Philosophy](https://www.class-central.com/mooc/3281/coursera-explorations-in-confucian-philosophy)
 14. [Justice](https://www.edx.org/course/justice-harvardx-er22-1x-0)
 15. [Ancient Philosophy: Plato and His Successors](https://www.coursera.org/learn/plato)
