@@ -15,7 +15,7 @@
 4. [PHYS102.2x: Electricity & Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x)
 5. [3.15x: Electrical, Optical, and Magnetic Materials and Devices](https://www.edx.org/course/electronic-materials-devices-mitx-3-15-1x)
 6. [MechCx: Advanced Introductory Classical Mechanics](https://www.class-central.com/mooc/2514/edx-8-mechcx-advanced-introductory-classical-mechanics)
-7.[Introduction to Thermodynamics: Transferring Energy from Here to There](https://www.class-central.com/mooc/815/coursera-introduction-to-thermodynamics-transferring-energy-from-here-to-there)
+7. [Introduction to Thermodynamics: Transferring Energy from Here to There](https://www.class-central.com/mooc/815/coursera-introduction-to-thermodynamics-transferring-energy-from-here-to-there)
 8. [Exploring Quantum Physics](https://www.coursera.org/course/eqp)
 9. [8.05x: Mastering Quantum Mechanics](https://www.class-central.com/mooc/2171/edx-8-05x-mastering-quantum-mechanics)
 10. Understanding Einstein: The Special Theory of Relativity 
